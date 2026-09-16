@@ -11,4 +11,5 @@ packages:
   gitServerName: Rahul
   gitUrl: https://github.com/johnpcarter
   gitUsername: Rahul-Sivakumar-IBM
+  gitBranch: main
   gitTag: v1.0.0
