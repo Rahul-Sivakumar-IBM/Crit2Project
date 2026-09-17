@@ -1,15 +1,14 @@
+version: "1.0"
 info:
   model: int-scaffold
 packages:
-- gitBranch: main
+- name: Crit2Project
   gitServerName: Rahul
   gitUrl: https://github.com/Rahul-Sivakumar-IBM
   gitUsername: Rahul-Sivakumar-IBM
-  name: Crit2Project
-- gitBranch: main
+  gitBranch: main
+- name: JcHelloWorldAPI
   gitServerName: Rahul
-  gitTag: v1.0.0
   gitUrl: https://github.com/johnpcarter
   gitUsername: Rahul-Sivakumar-IBM
-  name: JcHelloWorldAPI
-version: '1.0'
+  gitBranch: main
